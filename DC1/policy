@@ -1,0 +1,3 @@
+grant codeBase "file:/home/vnshah/CS53700/DC1/"{
+	permission java.security.AllPermission;
+};
